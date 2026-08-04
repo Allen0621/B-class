@@ -1,2 +1,5 @@
-# word-to-Slideshow
-把word檔轉成ppt 調整成幻燈片錄製 
+# A class 
+中打
+https://typing.tw/
+英打
+https://contest.hlc.edu.tw/typing/content.asp?lang=2
