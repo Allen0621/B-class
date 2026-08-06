@@ -1,6 +1,5 @@
 # B class 
-中打
-https://typing.tw/
+中打1 https://typing.tw/
 
 中打2 https://contest.hlc.edu.tw/typing/game/index1.asp
 
