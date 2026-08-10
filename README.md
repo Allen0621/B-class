@@ -1,4 +1,7 @@
 # B class 
+tinkercad https://www.tinkercad.com/
+
+
 中打1 https://typing.tw/
 
 中打2 https://contest.hlc.edu.tw/typing/game/index1.asp
@@ -14,3 +17,5 @@ https://contest.hlc.edu.tw/typing/game/index2.asp
 
 
 中英文切換 shift
+
+
